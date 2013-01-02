@@ -1,0 +1,2 @@
+octo dog
+added a new line after staged and staged again
